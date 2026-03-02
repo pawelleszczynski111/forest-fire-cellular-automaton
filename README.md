@@ -76,8 +76,10 @@ At each generation:
 ```bash
 pip install -r requirements.txt
 python src/simulation.py
+```
 The generated animation will be saved as:
+```
 examples/simulation.gif
-
+```
 Author:
 Paweł Leszczyński
